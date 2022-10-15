@@ -1,4 +1,4 @@
-Sidescroller2D_Game/Binaries/Win64/Sidescroller2D_Game.exe	2022-10-03T05:00:19.299Z
+Sidescroller2D_Game/Binaries/Win64/Sidescroller2D_Game.exe	2022-10-10T04:23:56.890Z
 Sidescroller2D_Game/Binaries/Win64/OpenImageDenoise.dll	2022-09-22T21:35:37.885Z
 Sidescroller2D_Game/Binaries/Win64/tbb12.dll	2022-09-22T21:35:37.886Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2022-09-22T21:11:48.172Z
@@ -22,4 +22,4 @@ Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2022-09-22T
 Engine/Binaries/ThirdParty/NVIDIA/GeForceNOW/Win64/GfnRuntimeSdk.dll	2022-09-22T20:50:53.421Z
 Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2022-09-22T20:52:15.366Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2022-09-22T20:52:19.004Z
-Sidescroller2D_Game.exe	2022-10-03T05:00:30.591Z
+Sidescroller2D_Game.exe	2022-10-10T04:24:05.904Z
